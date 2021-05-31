@@ -1,5 +1,11 @@
 # Starbucks Clone Project (스타벅스 클론 프로젝트)
 
+## Deployment (배포)
+
+Netlify를 통한 배포
+
+- [배포된 데모 사이트 확인](https://hardcore-stonebraker-43a6e7.netlify.app/)
+
 ## Dev Blog Posts (개발 블로그 글)
 
 1. [20210527 StarbucksClone01](https://goforit.tistory.com/115)
