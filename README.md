@@ -29,3 +29,7 @@ Netlify를 통한 배포
 4. [20210530 StarbucksClone04](https://goforit.tistory.com/118)
 
 - 반복 애니메이션(Gsap), 고정이미지 배경(background-attachment), 3D 애니메이션(rotateY, backface-visibility), 스크롤 위치 계산(ScrollMagic), 푸터, 특정 위치에 스크롤 위치 시키기(Gsap-scrollTo)
+
+5. [20210531 StarbucksClone05](https://goforit.tistory.com/119)
+
+- 배포(Netlify), 로그인 페이지, 모듈화 관리, Git(기본 명령어, reset, clone, branch 올리기), GitHub(pullRequest, 충돌, 로컬병합)
